@@ -23,10 +23,12 @@ A sleek, responsive, and modern educational platform offering **short-term, skil
 > *Replace the placeholder image URLs below with actual screenshots after deployment.*
 
 ### Home Page
-![Home Screenshot](https://via.placeholder.com/800x400.png?text=Home+Section)
+<img width="1899" height="928" alt="Screenshot 2025-08-11 123412" src="https://github.com/user-attachments/assets/80570476-4cc2-4d1e-9ab9-705524338977" />
+
 
 ### Courses Section
-![Courses Screenshot](https://via.placeholder.com/800x400.png?text=Courses+Section)
+<img width="1900" height="680" alt="Screenshot 2025-08-11 123447" src="https://github.com/user-attachments/assets/73059240-edca-4404-b9e0-51f59629a3ea" />
+
 
 ---
 
